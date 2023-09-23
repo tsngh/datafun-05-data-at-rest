@@ -11,7 +11,7 @@ Jupyter Notebooks are a popular way to create and share documents for data analy
 
 ## Step 1: Open The Project Folder
 
-Open VS Code and clone your `datafun-04-notebooks` repository to your machine.
+Open VS Code and clone your `datafun-05-data-at-rest` repository to your machine.
 
 ## Step 2: Update Default Python
 
